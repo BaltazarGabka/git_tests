@@ -5,6 +5,7 @@ using namespace std;
 int callA=0;
 int callB=0;
 int callC=0;
+//from master 6th
 class A
 {
 protected:
